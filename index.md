@@ -3,7 +3,7 @@
 - ***Effective date:**** June 1, 2026
 - ***App name:**** Burn — Focus Timer
 - ***Developer:**** Nishant Sharma
-- ***Contact:**** shivangizyxw21@gmail.com
+- ***Contact:**** nishant.labs.work@gmail.com
 
 - --
 
@@ -87,5 +87,5 @@ If we update this privacy policy, we will update the effective date above and po
 
 Questions or concerns? Email us:
 
-- ***shivangizyxw21@gmail.com****
+- ***nishant.labs.work@gmail.com****
 - --
